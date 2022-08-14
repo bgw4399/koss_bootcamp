@@ -165,6 +165,7 @@ module.exports = router;
 
 ```
 #3주차 MQTT.HTML
+```
 <!DOCTYPE html>
 <html>
   <head>
@@ -257,7 +258,7 @@ module.exports = router;
     </div>
   </body>
 </html>
-
+```
 # 4주차 과제 영상
 
 https://user-images.githubusercontent.com/104902657/184536718-860e9e71-9846-4d79-8203-e8484c52fad6.mp4
