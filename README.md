@@ -279,7 +279,7 @@ from PyQt5.QtGui import QFontDatabase
 from PyQt5.QtGui import QFont
 
 
-client = MongoClient("mongodb+srv://bgw4399:qowlsdn4399@cluster0.2f7mb.mongodb.net/?retryWrites=true&w=majority")
+client = MongoClient("mongodb+srv://myid:password@cluster0.2f7mb.mongodb.net/?retryWrites=true&w=majority")
 # 내 mongodb의 client를 불러옴
 
 db = client['test'] # test라는 이름의 데이터베이스에 접속
